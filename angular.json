@@ -23,9 +23,17 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/assets/css/bootstrap.min.css",
+              "src/assets/assets/css/fontawsom-all.min.css",
+              "src/assets/assets/css/style.css"
             ],
-            "scripts": [],
+            "scripts": [
+              "src/assets/assets/js/jquery-3.2.1.min.js",
+              "src/assets/assets/js/popper.min.js",
+              "src/assets/assets/js/bootstrap.min.js",
+              "src/assets/assets/js/script.js"
+            ],
             "es5BrowserSupport": true
           },
           "configurations": {
